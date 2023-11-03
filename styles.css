@@ -123,3 +123,9 @@ select{
     padding: 3rem;
 }
 
+.call-to-action{
+    --gap: 4rem;
+    background: purple;
+    padding:2rem;
+    border-radius: 1rem;
+}
