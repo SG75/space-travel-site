@@ -75,7 +75,7 @@ select{
 
 .container{
     padding-inline: 2em; 
-    max-width: 60rem;
+    max-width: 80rem;
     margin-inline: auto;
 }
 /* screen reader only */
@@ -117,3 +117,9 @@ select{
 /* .example-text{
     background-color: hsl( var(--color-light)/ .2 );
 } */
+
+.box{
+    background: lightcoral;
+    padding: 3rem;
+}
+
